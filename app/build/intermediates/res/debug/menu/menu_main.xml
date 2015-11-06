@@ -4,4 +4,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 </menu>
-<!-- From: file:/C:/Users/xixi/AndroidStudioProjects/UdpClient/app/src/main/res/menu/menu_main.xml -->
+<!-- From: file:/C:/Users/xixi/AndroidStudioProjects/Android-UDPClient/app/src/main/res/menu/menu_main.xml -->
